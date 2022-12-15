@@ -78,20 +78,20 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
-## 📈 Activity Graph
+## 📈 Languages
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujanAds&theme=github"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujan&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujanAds&theme=github"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujan&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujanAds&theme=github" />
+	
 </p>
 
 ### ✍️Random Dev Quote

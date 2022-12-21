@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His test
 - 🎓 I graduated in 2076 from bagmati college, kathmandu (Science,NEB) with a CGPA of 3.6.
 - 🔭 I’m currently working as freelancer.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
